@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Consentimiento OAuth2 | Stratiums</title>
+  <title>Stratiums</title>
 </head>
 <body>
   <main>
